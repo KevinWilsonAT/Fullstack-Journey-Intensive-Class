@@ -9,8 +9,7 @@ export const artistArray = [
     id: 2,
     image: "https://i.scdn.co/image/ab6761610000517499c26e8fb91634b00764bbb9",
     name: "MC Tuto",
-    banner:
-      "https://www.hashtagtreinamentos.com/wp-content/uploads/2025/02/mc-tuto.png",
+    banner: "https://www.hashtagtreinamentos.com/wp-content/uploads/2025/02/mc-tuto.png",
   },
   {
     id: 3,
@@ -46,8 +45,7 @@ export const artistArray = [
     id: 8,
     image: "https://i.scdn.co/image/ab67616100005174668a5535093f4cc53b1fef45",
     name: "Oruam",
-    banner:
-      "https://www.hashtagtreinamentos.com/wp-content/uploads/2025/02/oruam.png",
+    banner: "https://www.hashtagtreinamentos.com/wp-content/uploads/2025/02/oruam.png",
   },
   {
     id: 9,
