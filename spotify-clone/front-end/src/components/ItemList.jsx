@@ -1,6 +1,6 @@
-import React from 'react'
-import SingleItem from './SingleItem'
-import { Link, useLocation } from 'react-router-dom'
+import React from 'react';
+import SingleItem from './SingleItem';
+import { Link, useLocation } from 'react-router-dom';
 
 const ItemList = ({ title, items, itemsArray, path, idPath }) => {
 
@@ -38,7 +38,7 @@ const ItemList = ({ title, items, itemsArray, path, idPath }) => {
                 }
             </div>
         </div>
-    )
-}
+    );
+};
 
-export default ItemList
+export default ItemList;

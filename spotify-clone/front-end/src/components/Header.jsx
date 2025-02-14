@@ -1,4 +1,4 @@
-import React from 'react'
+import React from 'react';
 import logoSpotify from '../assets/logo/spotify-logo.png';
 import { Link } from 'react-router-dom';
 
@@ -13,7 +13,7 @@ const Header = () => {
             <h1>Spotify</h1>
         </Link>
     </div>
-  )
-}
+  );
+};
 
-export default Header
+export default Header;

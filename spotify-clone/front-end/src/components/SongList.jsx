@@ -1,5 +1,5 @@
-import React, { useState } from 'react'
-import SongItem from "./SongItem"
+import React, { useState } from 'react';
+import SongItem from "./SongItem";
 
 const SongList = ({ songsArray }) => {
   const [items, setItems] = useState(5);
@@ -20,7 +20,7 @@ const SongList = ({ songsArray }) => {
         See More...
       </p>
     </div>
-  )
-}
+  );
+};
 
-export default SongList
+export default SongList;
